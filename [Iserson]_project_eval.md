@@ -1,4 +1,4 @@
-###Digital Humanities Project Review: [Mapping Metaphor](http://mappingmetaphor.arts.gla.ac.uk/)
+#Digital Humanities Project Review: [Mapping Metaphor](http://mappingmetaphor.arts.gla.ac.uk/)
 
 The website Mapping Metaphor, hosted by the University of Glasgow, presents a visual web “for all metaphorical links that have been identified between different areas of meaning” in English. Published in 2015, the information provided onsite depicts the history of lexical connections developed in English over time. Based on class criteria of a useful Digital Humanities project, the Mapping Metaphor project appears successful. The website coneveys the purpose of content clearly, and the website admirably presents two different modes for conveying information, useful for both casual and long-term research. Evidence of collaboration is present throughout. This collaboration also underscores the nature of the Mapping Metaphor project as a tool produced from a different 'origin' project, the Historical Thesaurus of English. 
 
