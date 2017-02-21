@@ -45,5 +45,6 @@ While there’s room for development at hand, Mapping Metaphor provides a well-r
 Works Cited
 
 Alexander, Marc, and Ellen Bramwell. Mapping Metaphors of Wealth and Want: A Digital 	Approach. Proc. of Proceedings of the Digital Humanities Congress 2012. The University 	of Sheffield, 2012. Web.	
+
 Mapping Metaphor with the Historical Thesaurus. 2015. Metaphor Map of English Glasgow: 	University of Glasgow. http://mappingmetaphor.arts.gla.ac.uk.	
 	
