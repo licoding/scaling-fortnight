@@ -24,7 +24,7 @@ As implied above, collaboration between different researchers was necessary for 
 
 CONCLUSION
 
-While there’s room for development at hand, Mapping Metaphor provides a well-researched option for understanding uses of metaphor in English. Users of the website will most definitely obtain an increased knowledge of lexical origin by manipulating the Mapping Metaphor tool, however, sophisticated scholars may long for more precise historical and metaphorical justification in research outside Digital Humanities project evaluation. 
+While there’s room for development at hand, Mapping Metaphor provides a well-researched option for understanding uses of metaphor in English. Users of the website will certainly obtain an increased knowledge of lexical origin by manipulating the Mapping Metaphor tool. However, sophisticated scholars may long for more precise historical and metaphorical justification in research outside Digital Humanities project evaluation. 
 
 
 
